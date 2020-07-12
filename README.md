@@ -2,15 +2,8 @@
 show news and go to details
 Using
 -----
-( 1-Kotin _
-2-MVVM  _
-3-Repository _  
-4-Room  _
-5-Retrofit  _ 
-6-Glide  _ 
-7-WebView  _ 
-8-RecyclerView  _ 
-9-Navigation Component ) 
+( Kotin _ MVVM  _ Repository _ Room _ Retrofit _ Glide _ WebView _ RecyclerView _ Navigation Component ) 
+<br>
 <br>
 The main goal of the program is to learn
 ---------------------------------------
@@ -30,6 +23,5 @@ https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21
 <br>
 <img src ="107910972_594518177879555_5531481920853375315_n.jpg">
 <img src ="107922100_3301910876520316_6383315337641730938_n.jpg">
-<br>
 <img src ="107927130_276328807022796_3549297342259960016_n.jpg">
 <img src ="109121233_708441903063621_97551621443705578_n.jpg">
