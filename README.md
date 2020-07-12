@@ -1,16 +1,16 @@
 # The-News-App
-show news using and go to details
+show news and go to details
 Using
 -----
-1-Kotin
-2-MVVM 
-3-Repository 
-4-Room 
-5-Retrofit  
-6-Glide 
-7-WebView 
-8-RecyclerView 
-9-Navigation Component 
+( 1-Kotin _
+2-MVVM  _
+3-Repository _  
+4-Room  _
+5-Retrofit  _ 
+6-Glide  _ 
+7-WebView  _ 
+8-RecyclerView  _ 
+9-Navigation Component ) 
 <br>
 The main goal of the program is to learn
 ---------------------------------------
